@@ -1,0 +1,93 @@
+* {
+  margin: 0px;
+  padding:0px;}
+
+body {
+  background-image: url("../images/tileProtoIweb.jpg");
+  background-repeat: repeat; font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+main {
+  width: 950px;
+  min-height: 350px;
+  height: 100%;
+  background-color: #98d9ed;
+  margin:auto; padding: 20px 0px 0px 0px;
+  text-align: center;
+}
+
+article {
+  padding: 10px 10px 10px 50px;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #a89a73;
+}
+
+ul li {
+  display: inline; float: left;
+  background-color: #a89a73;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 20px 10px 20px;
+}
+
+li a {
+  display: block;
+  text-align: center;
+}
+
+header {
+  padding: 20px 0px 10px 0px;
+}
+
+a:link {
+  color:#ffffff;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#bc6728;
+}
+
+a:visited {
+  color:#ffffff;
+}
+
+a:active {
+  color:#ffffff;
+}
+
+footer {
+  background-color: #a89a73;
+}
+
+#footerPara{
+  color: white;
+}
+
+h2{
+  text-align: left;
+}
+
+section {
+  background-color: white;
+  padding: 20px 0px 20px 0px;
+  min-height: 375px;
+  height: 100%;
+}
+
+#imageFloat {
+  float: left;
+  margin: 0px 10px 10px 10px;
+}
+
+#paragraphA {
+  width: 600px;
+}
+
+/*remove list decoration and change to horizontal*/
+
+/*change link of nav style*/
